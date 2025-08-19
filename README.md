@@ -25,4 +25,4 @@ Documentacion clara y organizada de mi practicas
 contacto email: (bc7553401@gmail.com) 
 Linkedln: (linkedin.com/in/tuusuario)
 
-actualmente buscando oportunidades para realizar mis ptacticas profesionales 2025 en area relacionadas con el desarrollo de sofware, tanto frontend como backend.
+actualmente buscando oportunidades para realizar mis practicas profesionales 2025 en area relacionadas con el desarrollo de software, tanto frontend como backend.
