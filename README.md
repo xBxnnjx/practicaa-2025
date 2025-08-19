@@ -23,6 +23,6 @@ Ejercicios de logica y algoritmo
 Documentacion clara y organizada de mi practicas 
 
 contacto email: (bc7553401@gmail.com) 
-Linkendln: (linkedin.com/in/tuusuario)
+Linkedln: (linkedin.com/in/tuusuario)
 
 actualmente buscando oportunidades para realizar mis ptacticas profesionales 2025 en area relacionadas con el desarrollo de sofware, tanto frontend como backend.
